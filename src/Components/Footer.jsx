@@ -33,7 +33,9 @@ const Footer = () => {
             </a>
         </div>
 
+        <p class="mt-6 text-sm text-gray-500 lg:mt-0 dark:text-gray-400">Code and Designed by <a className='hover:text-blue-500' href='https://www.linkedin.com/in/manas0609/'>Manas Bhandari</a> </p>
         <p class="mt-6 text-sm text-gray-500 lg:mt-0 dark:text-gray-400">© Copyright 2023 Yash Health. </p>
+        
     </div>
 </footer>
     </div>
