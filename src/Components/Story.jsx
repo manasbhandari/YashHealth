@@ -14,7 +14,7 @@ const Story = () => {
             <h2 className="text-3xl font-bold leading-tight text-gray-900 sm:text-4xl xl:text-5xl font-pj">हम कौन हैं- मिलें हमारे चिकित्सक</h2>
         </div>
 
-     
+        npm run build
     <div class="max-w-6xl px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
     <div  class="min-h-[35vh] bg-photo  bg-center bg-cover bg-no-repeat relative rounded-xl md:min-h-[75vh]">
       
