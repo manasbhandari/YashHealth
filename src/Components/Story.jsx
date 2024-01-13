@@ -24,7 +24,7 @@ const Story = () => {
         <div class="hidden md:block">
           <h3 class="text-lg font-bold text-gray-800 sm:text-2xl ">Pawan Bhandari</h3>
           <h4><h3>MSC in Drug chemistry</h3></h4>
-          <p class="mt-2 ">आपके स्वास्थ्य का सफर, हमारी देखभाल - संपूर्ण स्वास्थ्य, संपूर्ण ख़ुशी</p>
+          <p class="mt-2 ">आपके स्वास्थ्य का सफर , हमारी देखभाल - संपूर्ण स्वास्थ्य, संपूर्ण ख़ुशी</p>
         </div>
 
         <div class="md:mt-10">
