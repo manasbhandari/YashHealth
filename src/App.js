@@ -5,6 +5,7 @@ import Types from "./Pages/Types";
 import Story from "./Pages/About";
 import AllPosts from "./Components/AllPosts"
 import OnePost from "./Components/SinglePost"
+import { SpeedInsights } from '@vercel/speed-insights/react';
 
 
 

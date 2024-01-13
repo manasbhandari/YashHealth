@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage:{
-        'photo': 'url(/Users/manas/Desktop/untitled folder/health-project/src/Assets/photo.jpeg)'
+        'photo': 'url(/Users/manas/Desktop/untitled folder/YashHealth/src/Assets/Photo.jpeg)'
       }
     },
   },

@@ -1,6 +1,7 @@
 import React from 'react'
 
 
+
 const src =
   "https://youtu.be/D2Q2albPgFM?si=G7YwUEgJZlwssrtA";
 
@@ -15,7 +16,7 @@ const Story = () => {
 
      
     <div class="max-w-6xl px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
-    <div class="min-h-[35vh]   bg-center bg-cover bg-no-repeat relative rounded-xl md:min-h-[75vh]">
+    <div  class="min-h-[35vh] bg-photo  bg-center bg-cover bg-no-repeat relative rounded-xl md:min-h-[75vh]">
       
     <div class="absolute bottom-0 start-0 end-0 max-w-xs text-center mx-auto p-6 md:start-auto md:text-start md:mx-0">
       
