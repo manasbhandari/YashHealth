@@ -36,8 +36,8 @@ export default function AllPosts() {
 
       <div className="mt-10 container mx-auto">
       <div className="text-center">
-            <h2 className="text-3xl font-bold leading-tight text-gray-900 sm:text-4xl xl:text-5xl font-pj">हमारी मुख्य विशेषताएँ</h2>
-            <p className="mt-4  text-xl leading-7 text-gray-600 sm:mt-8 font-pj">हम सभी के लिए स्वास्थ्य को सुलभ और व्यक्तिगत बनाने में यह मानते हैं। हमारे समुदाय में शामिल हों और एक स्वस्थतम, खुशहाल जीवन की ओर एक सफल यात्रा शुरू करें!</p>
+            <h2 className="text-3xl font-bold leading-tight text-gray-900 sm:text-4xl xl:text-5xl font-pj">आरोग्य केंद्र: जीवन के लिए सरल स्वास्थ्य जानकारी</h2>
+            <p className="mt-4  text-xl leading-7 text-gray-600 sm:mt-8 font-pj">हम आपके आरोग्य की देखभाल के लिए एक समृद्धि स्थल, हमारा आरोग्य केंद्र आपको सुरक्षित और स्वस्थ जीवन की ओर मार्गदर्शित करता है। हमारी विशेषज्ञ सलाह, उन्नत सेवाएं, और सौजन्यपूर्ण वातावरण में, यहां आपका स्वास्थ्य सर्वोत्तम हाथों में है। आइए, साथ मिलकर स्वस्थ और समृद्ध जीवन की ओर एक कदम बढ़ाएं!</p>
         </div>
         <div className="mt-10 grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {allPostsData &&
