@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/YashHealth/static/css/main.157b16ea.css",
+    "main.js": "/YashHealth/static/js/main.b6a6507d.js",
+    "static/js/726.8673c97c.chunk.js": "/YashHealth/static/js/726.8673c97c.chunk.js",
+    "static/js/787.276fc59e.chunk.js": "/YashHealth/static/js/787.276fc59e.chunk.js",
+    "static/media/videos.mp4": "/YashHealth/static/media/videos.bc1d10aa4c3a8ad98d55.mp4",
+    "static/media/heroimage.jpeg": "/YashHealth/static/media/heroimage.c8907dd059f90bdcca32.jpeg",
+    "static/media/consultation.jpeg": "/YashHealth/static/media/consultation.85abae83f7951c2bb7be.jpeg",
+    "static/media/call.png": "/YashHealth/static/media/call.2918cee66b01b16bea53.png",
+    "static/media/info.jpeg": "/YashHealth/static/media/info.1f4acf8f6577e31fad73.jpeg",
+    "static/media/registration.jpeg": "/YashHealth/static/media/registration.7fde098b6484ad088517.jpeg",
+    "static/media/logo.png": "/YashHealth/static/media/logo.57079143873b0157e190.png",
+    "static/media/patienthistory.png": "/YashHealth/static/media/patienthistory.a4ddfd26f517b28dadc7.png",
+    "static/media/support.avif": "/YashHealth/static/media/support.8af59c66a333dd878c96.avif",
+    "static/media/profile.avif": "/YashHealth/static/media/profile.0506e0989d0ceb439b71.avif",
+    "index.html": "/YashHealth/index.html",
+    "main.157b16ea.css.map": "/YashHealth/static/css/main.157b16ea.css.map",
+    "main.b6a6507d.js.map": "/YashHealth/static/js/main.b6a6507d.js.map",
+    "726.8673c97c.chunk.js.map": "/YashHealth/static/js/726.8673c97c.chunk.js.map",
+    "787.276fc59e.chunk.js.map": "/YashHealth/static/js/787.276fc59e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.157b16ea.css",
+    "static/js/main.b6a6507d.js"
+  ]
+}
